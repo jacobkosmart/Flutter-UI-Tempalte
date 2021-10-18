@@ -1,6 +1,6 @@
 # flutter_ui
 
-<img src = "https://drive.google.com/uc?export=view&id=1-NAnw5TTfao67R57a2B1rQQhBLuCVOCY">
+![image](https://drive.google.com/a/knou.ac.kr/thumbnail?id=1-NAnw5TTfao67R57a2B1rQQhBLuCVOCY&sz=w320)
 
 A new Flutter project.
 
