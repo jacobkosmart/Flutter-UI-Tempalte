@@ -1,6 +1,6 @@
 # flutter_ui
 
-![image](https://lh3.googleusercontent.com/d/1-NAnw5TTfao67R57a2B1rQQhBLuCVOCY=w320?authuser=1)
+![Kapture 2021-10-19 at 08 58 00](https://user-images.githubusercontent.com/28912774/137822203-9d0b17e0-2e9d-4d1b-aa96-31c1fbd1af3a.gif)
 
 A new Flutter project.
 
