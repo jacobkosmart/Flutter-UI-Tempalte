@@ -1,6 +1,6 @@
 # flutter_ui
 
-![image](https://drive.google.com/a/knou.ac.kr/thumbnail?id=1-NAnw5TTfao67R57a2B1rQQhBLuCVOCY&sz=w320)
+![image](https://lh3.googleusercontent.com/d/1-NAnw5TTfao67R57a2B1rQQhBLuCVOCY=w320?authuser=1)
 
 A new Flutter project.
 
